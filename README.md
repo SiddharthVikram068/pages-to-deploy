@@ -1,2 +1,3 @@
 # pages-to-deploy
-all the pages to deploy on hosting services 
+
+https://chatbotsmbhav.netlify.app/ - amazon chatbot deploy link
